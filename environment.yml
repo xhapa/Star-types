@@ -1,0 +1,10 @@
+name: base-DA
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - ipykernel
+  - matplotlib
+  - seaborn
+prefix: /home/xhapa/anaconda3/envs/base-DA
